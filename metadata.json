@@ -1,0 +1,6 @@
+{
+  "name": "KIMYO 5–11 SINF",
+  "description": "Kimyoni oson, tushunarli va zamonaviy usulda o‘rganing. 5-11 sinf o‘quvchilari uchun interaktiv kimyo ta'lim platformasi: masalalar yechish, kamera orqali AI tahlili, kalkulyatorlar, davriy jadval va testlar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
